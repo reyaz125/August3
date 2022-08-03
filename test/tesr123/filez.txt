@@ -1,0 +1,16 @@
+i am good
+git add .
+git commit -m "new commit"
+git push
+git status
+mkdir 123
+echo "namaste" file
+git add .
+git commit -m "good"
+git push 
+git status
+cd..
+git status
+exit
+git status
+clear
